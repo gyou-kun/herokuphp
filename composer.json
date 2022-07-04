@@ -1,0 +1,11 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [{
+        "name": "Haziq Aqil",
+        "email": "parzival.aqil@gmail.com"
+    }],
+    "require": {}
+}
